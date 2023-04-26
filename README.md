@@ -7,4 +7,4 @@
 
 ## Descrição
 
-Compilado de programas/algoritmos introdutórios na linguagem de programação JavaScript, seguindo a Trilha JavaScript Developer disponibilizado pela empresa provedora de e-Learning [DIO](https://web.dio.me/home).
+Compilado de programas/algoritmos introdutórios na linguagem de programação JavaScript, seguindo a Trilha JavaScript Developer disponibilizado pela empresa provedora de e-Learning [DIO](https://web.dio.me/home) (Digital Innovation One).
